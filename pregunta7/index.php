@@ -23,9 +23,9 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Registro de Propiedad</h5>
-                        <p class="card-text">Realiza el registro oficial de una propiedad en la base de datos catastral.</p>
-                        <a href="#" class="btn btn-primary">Iniciar trámite</a>
+                        <h5 class="card-title">Registro de Usuario</h5>
+                        <p class="card-text">Realiza el registro oficial de una propiedad y su usuario.</p>
+                        <a href="registro.php" class="btn btn-primary">Iniciar trámite</a>
                     </div>
                 </div>
             </div>
@@ -33,9 +33,9 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Cambio de Propietario</h5>
-                        <p class="card-text">Actualiza los datos del propietario en los registros catastrales.</p>
-                        <a href="#" class="btn btn-primary">Iniciar trámite</a>
+                        <h5 class="card-title">Ver listado de personas</h5>
+                        <p class="card-text">Lista las personas y se puede ver sus propiedades.</p>
+                        <a href="listar_personas.php" class="btn btn-primary">Iniciar trámite</a>
                     </div>
                 </div>
             </div>
